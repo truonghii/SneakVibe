@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+    font-style: normal;
+    src: url(https://web.nvnstatic.net/tp/T0239/fonts/RobotoCondensed-Regular.ttf);
+}
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
+    font-style: normal;
+    src: url(https://web.nvnstatic.net/tp/T0239/fonts/RobotoCondensed-Bold.ttf);
+}
